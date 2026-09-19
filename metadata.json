@@ -1,0 +1,6 @@
+{
+  "name": "EcoWise AI – Smart Building Energy Copilot",
+  "description": "AI-powered platform that helps facility managers monitor building energy usage, detect abnormal energy consumption, receive AI-powered recommendations, and generate sustainability reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
